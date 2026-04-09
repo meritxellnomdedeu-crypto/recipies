@@ -1,3 +1,4 @@
+
 Guacamole 
 Ingredients
 *avocado
@@ -5,5 +6,7 @@ Ingredients
 *salt
 
 Instructions
+Smash guacamole, add lemon, add salt
 
-
+Time 
+sdajkdjald
